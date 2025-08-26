@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+I'm Febby, a programmer but still need to improve hehe.
+
+NEVER STOP GROWING!! is my motto (not really)
+
+🔭 I’m currently working on my Thesis and my certificates
+🌱 I’m currently learning Python, AI, and Robotics
+👯 I’m looking to collaborate on anyone that can 
+🤔 I’m looking for help with everything hahaha
+💬 Ask me about anything...
+📫 How to reach me: 
+😄 Pronouns: she/her
+⚡ Fun fact: I'm in the brink of death hahahhaa
 <!--
 **FANNBURLADO/FANNBURLADO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
